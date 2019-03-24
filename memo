@@ -1,0 +1,4 @@
+$ vue init webpack <PJ名>
+$ cd <PJ名>
+$ npm install vuex
+$ npm run dev
